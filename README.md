@@ -33,18 +33,18 @@ Smart-Daily-Expense-Analyzer/
 
 ## 🚀 How to Run
 1. Clone the repository  
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/sakshid3004/Smart-Daily-Expense-Analyzer.git
 
-2. Navigate to the project folder  
-   cd <repository-name>
+3. Navigate to the project folder  
+   cd Smart-Daily-Expense-Analyzer
 
-3. Install required dependencies  
+4. Install required dependencies  
    pip install streamlit
 
-4. Run the app  
+5. Run the app  
    streamlit run app.py
 
-5. Open in browser at the URL shown in terminal (usually http://localhost:8501)  
+6. Open in browser at the URL shown in terminal (usually http://localhost:8501)  
 
 ---
 
